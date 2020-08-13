@@ -2,12 +2,12 @@
 
 layout: col-sidebar
 title: OWASP Doha
-tags: example-tag
+tags: 
 level: 0
 
 region: Middle East
 
-auto-migrated: 1
+auto-migrated: 0
 meetup-group: OWASP-Doha-Chapter
 country: Qatar
 postal-code: 

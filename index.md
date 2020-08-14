@@ -5,7 +5,7 @@ title: OWASP Doha
 tags: 
 level: 0
 
-region: Middle East
+region: Asia
 
 auto-migrated: 0
 meetup-group: OWASP-Doha-Chapter

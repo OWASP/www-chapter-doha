@@ -14,8 +14,6 @@ postal-code:
 
 ---
 
-<!-- rebuild -->
-
 OWASP Doha
 -------------
 Welcome to the Doha chapter homepage. The chapter board is <a href="mailto:javed.khan@owasp.org">Javed Khan</a>, <a href="mailto:ankit.bharathan@owasp.org">Ankit Bharathan</a> and <a href="mailto:praveen.nair@owasp.org">Praveen Nair</a>. Follow chapter news on [Twitter](https://twitter.com/DohaOwasp) | [Meetup.com](https://www.meetup.com/OWASP-Doha-Chapter)

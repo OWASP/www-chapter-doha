@@ -1,6 +1,5 @@
 ### Leaders
 
-* [Javed Khan](TBA)
+* [Javed Khan](mailto:javed.khan@owasp.org)
 * [Gagan Jattana](TBA)
 * [Sheik Fareed](TBA)
-* [Nadeen](nadeem710@gmail.com)

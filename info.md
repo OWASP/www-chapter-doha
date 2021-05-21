@@ -8,7 +8,7 @@
 ### Social Links
 
 * [Meetup](https://www.meetup.com/OWASP-Doha-Chapter/)
-* [WhatApp](TBA)
+* [WhatApp](https://chat.whatsapp.com/EOxqAroKoyX2wldvTrQWIg)
 * [Twitter](https://twitter.com/DohaOwasp)
 
 ### Code Repo

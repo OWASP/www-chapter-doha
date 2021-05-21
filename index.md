@@ -20,7 +20,7 @@ Follow chapter news on [Twitter](https://twitter.com/DohaOwasp) | [Meetup.com](h
 
 ### Upcoming Meetings
 
-TBA
+TBA.
 
 {% include chapter_events.html group=page.meetup-group %}
 

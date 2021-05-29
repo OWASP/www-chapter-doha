@@ -14,20 +14,11 @@ postal-code:
 
 ### OWASP Doha
 
-Welcome to the Doha chapter homepage. The chapter board is <a href="mailto:javed.khan@owasp.org">Javed Khan</a>, <a href="mailto:gagan.jattana@owasp.org">Gagan Jattana</a>, <a href="mailto:sheik.fareed@owasp.org">Sheik Fareed</a> and TBA.
+Welcome to the Doha chapter homepage. The chapter board is <a href="mailto:javed.khan@owasp.org">Javed Khan</a>, <a href="mailto:gagan.jattana@owasp.org">Gagan Jattana</a>, <a href="mailto:sheik.fareed@owasp.org">Sheik Fareed</a> and <a href="mailto:nadeem710@gmail.com">Nadeem Khan.
 
 Follow chapter news on [Twitter](https://twitter.com/DohaOwasp) | [Meetup.com](https://www.meetup.com/OWASP-Doha-Chapter)
 
-### Upcoming Meetings
-
-TBA.
-
-{% include chapter_events.html group=page.meetup-group %}
-
-TBA
 
 ### Speaking at OWASP Doha Chapter Events
 
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Doha Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
-
-`javed.khan (at) owasp.org`
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Doha Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders.

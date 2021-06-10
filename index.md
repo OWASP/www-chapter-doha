@@ -14,7 +14,7 @@ postal-code:
 
 ### OWASP Doha
 
-Welcome to the Doha chapter homepage. The chapter board is <a href="mailto:javed.khan@owasp.org">Javed Khan</a>, <a href="mailto:gagan.jattana@owasp.org">Gagan Jattana</a>, <a href="mailto:sheik.fareed@owasp.org">Sheik Fareed</a> and <a href="mailto:nadeem710@gmail.com">Nadeem Khan.
+Welcome to the Doha chapter homepage. The chapter board is <a href="mailto:javed.khan@owasp.org">Javed Khan</a>, <a href="mailto:gagan.jattana@owasp.org">Gagan Jattana</a>, <a href="mailto:sheik.fareed@owasp.org">Sheik Fareed</a> and <a href="mailto:nadeem.khan@owasp.org">Nadeem Khan.
 
 Follow chapter news on [Twitter](https://twitter.com/DohaOwasp) | [Meetup.com](https://www.meetup.com/OWASP-Doha-Chapter)
 
